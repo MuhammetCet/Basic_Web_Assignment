@@ -1,0 +1,116 @@
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+   
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+ 
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  
+  .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+  
+  
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  .container {
+    padding: 16px;
+  }
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  
+
+  
+.Slider{
+height: 600px;
+
+}
+body{
+    padding: top 60px;
+    
+}
+.hakkimizda{
+    background-color: #f8f3f3;
+}
+.simge{
+    border:none;
+    border-top:3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.simgepozisyon{
+    color:343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+   border: 10px solid white;
+   background-color:white;
+
+   
+}
+.simgepozisyons{
+    color:343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+   border: 10px solid #f2f2f2;
+   background-color: #f2f2f2;
+}
+.hoverefekti>img:hover{
+    opacity: 0.7;
+}
+.foto{
+    background-color: white;
+}
+.figure:hover{
+    opacity: 0.8;
+}
+
+    
+
+#tablo{
+margin-top: 10%;
+position: auto;
+    top: 45px;
+    right: 45px;
+    margin: 0;
+    padding: 0;
+    font-size: large;
+    
+
+}
